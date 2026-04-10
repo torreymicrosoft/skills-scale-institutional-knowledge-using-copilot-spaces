@@ -20,8 +20,9 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
-- Provide regular updates (weekly or milestone-based)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, executive sponsor)
+- Provide regular updates (weekly or milestone-based) to the Executive Sponsor / Stakeholder
+- Involve the Support Lead / Customer Success team in communications for releases that affect customers
 - Use a single source of truth (project README or release doc) for status
 
 ## Communication Templates
@@ -38,5 +39,6 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- Team-level -> PM -> Product Lead -> Executive Sponsor / Stakeholder
+- For customer-impacting issues, loop in the Support Lead / Customer Success early to coordinate communication
 - For security incidents, follow the security incident runbook and notify Security on-call

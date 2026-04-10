@@ -20,6 +20,8 @@ After every sprint, release, or significant milestone the team holds a **retrosp
 | [Project Initiation](octoacme-project-initiation.md) | Steps to validate and authorize work, align stakeholders, and produce an initial plan |
 | [Project Planning](octoacme-project-planning.md) | Turning an approved initiative into an actionable backlog and release plan |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Definitions of all roles and responsibilities used across OctoAcme projects |
+| [Role Assignment & RACI](octoacme-role-assignment-and-raci.md) | RACI template and guidance for assigning ownership across project activities |
+| [Handoff Checklists](octoacme-handoff-checklists.md) | Checklists for key project handoffs: Product→Engineering, Engineering→QA, Engineering/QA→Release, Release→Support |
 | [Execution and Tracking](octoacme-execution-and-tracking.md) | Day-to-day execution rhythm, project board workflow, PR process, and quality standards |
 | [Risks and Communication](octoacme-risks-and-communication.md) | Risk register format, risk lifecycle, and stakeholder communication cadences |
 | [Release and Deployment](octoacme-release-and-deployment.md) | Standardized release checklist and deployment process |
