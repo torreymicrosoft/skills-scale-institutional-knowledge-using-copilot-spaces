@@ -10,6 +10,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
+- **Column ownership and entry/exit criteria:**
+  - **In Review:** Developer-owned. Entry: PR opened with CI passing and issue link. Exit: at least one peer approval, no unresolved comments.
+  - **QA:** QA Lead-owned. Entry: PR merged to integration/staging, test environment updated, QA Lead notified. Exit: all acceptance criteria verified, no open P0/P1 defects, QA Lead provides sign-off.
+  - **Done:** PM/QA confirmation. Entry: QA sign-off received and change deployed to target environment (staging or production). Exit: n/a — item is complete.
 - Pull Request workflow:
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description

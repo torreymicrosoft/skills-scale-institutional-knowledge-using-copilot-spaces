@@ -37,7 +37,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Roles identified and assigned (see [Role Assignment & RACI](octoacme-role-assignment-and-raci.md))
+- [ ] RACI / ownership confirmed for key workstreams
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted and QA Lead identified
+- [ ] Documentation plan confirmed and Technical Writer (or owner) assigned
+- [ ] Support readiness plan reviewed with Support Lead / Customer Success
+- [ ] Risk register initialized with owners assigned to each identified risk
